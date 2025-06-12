@@ -1,0 +1,9 @@
+streamlit
+openai==0.28
+xgboost==2.0.3
+scikit-learn==1.3.2
+joblib
+pymupdf==1.23.22
+pandas
+numpy
+fpdf
